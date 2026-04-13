@@ -1,0 +1,43 @@
+CONCATENATE Function:
+
+The CONCATENATE function combines multiple text strings into one by joining them together in the order you specify.
+
+LEN Function:
+
+The LEN function calculates and returns the number of characters in a given text string.
+
+LEFT Function:
+
+The LEFT function extracts a specified number of characters from the beginning (left) of a text string.
+
+RIGHT Function:
+
+The RIGHT function extracts a specified number of characters from the end (right) of a text string.
+
+MID Function:
+
+The MID function extracts a specific number of characters from the middle of a text string, starting from a specified position.
+
+UPPER Function:
+
+The UPPER function converts all the characters in a text string to uppercase.
+
+LOWER Function:
+
+The LOWER function converts all the characters in a text string to lowercase.
+
+PROPER Function:
+
+The PROPER function capitalizes the first letter of each word in a text string and converts the rest of the letters to lowercase.
+
+TRIM Function:
+
+The TRIM function removes extra spaces (leading, trailing, and multiple consecutive spaces) from a text string, leaving only single spaces between words.
+
+SUBSTITUTE Function:
+
+The SUBSTITUTE function replaces occurrences of a specified substring within a text string with a new substring.
+
+REPLACE Function:
+
+The REPLACE function replaces a specified number of characters within a text string with a new text string, starting at a specified position.
